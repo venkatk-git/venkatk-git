@@ -8,4 +8,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk-git&layout=compact&theme=radical)
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Venkat](https://github.com/venkatk-git)
