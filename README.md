@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Venkatkumar</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=venkatk-git&color=blueviolet)
