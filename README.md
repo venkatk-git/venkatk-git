@@ -4,6 +4,6 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatk-git&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk-git&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatk-git&show_icons=true&theme=radical) "  "  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk-git&layout=compact&theme=radical)
 
 ⭐️ From [Venkat](https://github.com/venkatk-git)
