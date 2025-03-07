@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [VENKATKUMAR M]
+# Hi there! 👋 I'm VENKATKUMAR M
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venkatk-git&color=blueviolet)
 
